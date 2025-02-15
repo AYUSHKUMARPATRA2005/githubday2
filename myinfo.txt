@@ -1,4 +1,8 @@
 my name is nice
 changed for git hub
 i am changed by git hub editor
+<<<<<<< HEAD
 i am on branch merge
+=======
+i am on ayush branch learning merge conflict
+>>>>>>> ayush
